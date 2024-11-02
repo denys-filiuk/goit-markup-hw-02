@@ -44,10 +44,10 @@ h2 {
 .solution-button:focus {
   color: #404bbf;
 }
-.address: {
+.address {
   font-style: normal;
 }
-.address-link: {
+.address-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: rgba(0, 0, 0, 0.2);
@@ -103,7 +103,7 @@ h2 {
 .team-title {
   text-transform: capitalize;
 }
-.team-item: {
+.team-item {
   background-color: #ffffff;
 }
 .team-subtitle {
