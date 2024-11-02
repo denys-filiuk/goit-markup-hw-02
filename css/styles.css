@@ -1,0 +1,44 @@
+body {
+    font-family: "roboto", serif;
+    color: #2E2F42;
+}
+.navigation:hover,
+.address:hover {
+    color: #404BBF;
+}
+.logo {
+    color: #4D5AE5;
+} 
+.solutions {
+    background-color: #2E2F42;
+}
+.solution-title {
+    color: #ffffff;
+}
+.solution-button {
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+
+/* Effective Solutions for Your Business */
+
+position: absolute;
+width: 496px;
+height: 120px;
+left: 472px;
+top: 260px;
+
+/* Header 1 */
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 60px;
+/* or 107% */
+text-align: center;
+letter-spacing: 0.02em;
+
+/* WHITE */
+color: #FFFFFF;
+
+border: 1px solid #000000;
